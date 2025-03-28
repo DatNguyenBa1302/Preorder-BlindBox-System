@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PreOrderBlindBox.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22943bd9ac8897aa92c347249ea838ebd126ef30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3135305edaca8bf3572523181b7b0b1099d6d0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PreOrderBlindBox.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PreOrderBlindBox.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

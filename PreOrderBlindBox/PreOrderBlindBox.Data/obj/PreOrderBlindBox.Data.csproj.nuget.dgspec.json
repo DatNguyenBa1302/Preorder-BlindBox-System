@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DataDiskInD\\HocTap\\3_MyGithubRepository\\PreorderBlindBoxSystem\\Preorder-BlindBox-System-Resolve-Branch\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Preorder-BlindBox-System\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj": {}
   },
   "projects": {
-    "E:\\DataDiskInD\\HocTap\\3_MyGithubRepository\\PreorderBlindBoxSystem\\Preorder-BlindBox-System-Resolve-Branch\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Preorder-BlindBox-System\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DataDiskInD\\HocTap\\3_MyGithubRepository\\PreorderBlindBoxSystem\\Preorder-BlindBox-System-Resolve-Branch\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Preorder-BlindBox-System\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj",
         "projectName": "PreOrderBlindBox.Data",
-        "projectPath": "E:\\DataDiskInD\\HocTap\\3_MyGithubRepository\\PreorderBlindBoxSystem\\Preorder-BlindBox-System-Resolve-Branch\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\DataDiskInD\\HocTap\\3_MyGithubRepository\\PreorderBlindBoxSystem\\Preorder-BlindBox-System-Resolve-Branch\\PreOrderBlindBox\\PreOrderBlindBox.Data\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Preorder-BlindBox-System\\PreOrderBlindBox\\PreOrderBlindBox.Data\\PreOrderBlindBox.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Preorder-BlindBox-System\\PreOrderBlindBox\\PreOrderBlindBox.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -96,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
